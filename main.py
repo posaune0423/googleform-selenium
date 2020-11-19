@@ -13,8 +13,8 @@ first_name = '太郎'
 identity = '122341'
 done_classes = [6, 7]
 students_name = '武田太朗、武田武子'
-route = 'エストニア->船橋'
-travel_expense = 300
+route = 'エストニア->渋谷'
+travel_expense = 30000
 
 
 
